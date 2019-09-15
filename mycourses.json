@@ -1,0 +1,30 @@
+{
+  "student": "Gia Tuong Tran",
+  "count": 4
+  "version": "1.0.0",
+  "timestamp": "2019-09-14T14:15:35+00:00",
+  "data": 
+  [
+    {
+      "id": 1,
+      "courseCode": "MAP523",
+      "courseName": "Mobile App Development - IOS"
+    },
+    {
+      "id": 2,
+      "courseCode": "DSA555",
+      "courseName": "Data Structures and Algorithms in C++"
+    },
+    {
+      "id": 3,
+      "courseCode": "OSD600",
+      "courseName": "Open Source Development"
+    },
+    {
+      "id": 4,
+      "courseCode": "MAP524",
+      "courseName": "Mobile App Development - Android"
+    }
+  ]
+  
+}
