@@ -1,1 +1,1 @@
-MAP523 Simple database - Assignment 1
+MAP523 Database - Assignment 1
